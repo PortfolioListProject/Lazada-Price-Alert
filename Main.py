@@ -240,12 +240,3 @@ status_label.pack(pady=10)
 window.protocol("WM_DELETE_WINDOW", on_close)
 poll_status()
 window.mainloop()
-
-
-
-
-
-
-
-
-
